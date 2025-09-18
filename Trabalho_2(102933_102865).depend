@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1651084640 source:c:\users\user\onedrive - universidade de lisboa\ambiente de trabalho\trabalho_2(102933_102865)\argumentos.c
+	"argumentos.h"
+	<stdio.h>
+
+1651078231 c:\users\user\onedrive - universidade de lisboa\ambiente de trabalho\trabalho_2(102933_102865)\argumentos.h
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1651080019 source:c:\users\user\onedrive - universidade de lisboa\ambiente de trabalho\trabalho_2(102933_102865)\main.c
+	<stdio.h>
+	"argumentos.h"
+	"dados.h"
+
+1651079303 c:\users\user\onedrive - universidade de lisboa\ambiente de trabalho\trabalho_2(102933_102865)\dados.h
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1651086169 source:c:\users\user\onedrive - universidade de lisboa\ambiente de trabalho\trabalho_2(102933_102865)\dados.c
+	"dados.h"
+	<stdio.h>
+
+1651084642 source:c:\users\fcadi\desktop\trabalho_2(102933_102865)\argumentos.c
+	"argumentos.h"
+	<stdio.h>
+
+1651078232 c:\users\fcadi\desktop\trabalho_2(102933_102865)\argumentos.h
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1651094148 source:c:\users\fcadi\desktop\trabalho_2(102933_102865)\dados.c
+	"dados.h"
+	<stdio.h>
+
+1651079304 c:\users\fcadi\desktop\trabalho_2(102933_102865)\dados.h
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1651094109 source:c:\users\fcadi\desktop\trabalho_2(102933_102865)\main.c
+	<stdio.h>
+	"argumentos.h"
+	"dados.h"
+

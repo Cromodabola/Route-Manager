@@ -1,0 +1,10 @@
+#ROTA 1
+Lisboa 0.00 km
+Porto 167.93 km
+
+#ROTA 5
+Porto 0.00 km
+Aveiro 56.99 km
+Braga 159.93 km
+Vila_Real 239.01 km
+

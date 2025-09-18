@@ -1,0 +1,14 @@
+#ROTA 1
+Lisboa
+porTo
+
+#ROTA 2
+porTo
+Braga
+Coimbra
+
+#ROTA 5
+Porto
+AvEIRo
+Braga
+Vila_rEal
